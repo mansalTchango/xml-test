@@ -1,254 +1,437 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:media="http://search.yahoo.com/mrss/"
-
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	xmlns:ev="http://purl.org/rss/2.0/modules/event/"
->
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:ev="https://web.resource.org/rss/1.0/modules/event" version="2.0">
 <channel>
-	<title>Actualité - Hasparren, Hazparne, Pays Basque</title>
-	<atom:link href="https://hasparren.fr/vie-pratique/infos-pratiques/lactualite/feed/" rel="self" type="application/rss+xml" />
-	<link>https://hasparren.fr</link>
-	<description>Hasparren, Hazparne, Pays Basque</description>
-	<lastBuildDate>Thu, 12 May 2022 10:38:26 +0000</lastBuildDate>
-	<language>fr-FR</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
-<site xmlns="com-wordpress:feed-additions:1">200010203</site>	<item>
-		<title>Jeux en bois et Havre de lecture</title>
-		<link>https://hasparren.fr/jeux-en-bois-et-havre-de-lecture/</link>
-					<comments>https://hasparren.fr/jeux-en-bois-et-havre-de-lecture/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Ade-urban]]></dc:creator>
-		<pubDate>Wed, 11 May 2022 10:33:40 +0000</pubDate>
-				<category><![CDATA[Actualité]]></category>
-		<category><![CDATA[Categorie]]></category>
-		<guid isPermaLink="false">https://hasparren.fr/?p=32157</guid>
-
-					<description><![CDATA[&#160; Envie de se détendre, de s’amuser et de se lancer des défis&#160;? Des grands jeux en bois seront à disposition les mercredis après-midi de 14h00 à 17h00, pour les [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<figure class="wp-block-image size-large"><img width="800" height="600" src="https://hasparren.fr/wp-content/uploads/2022/05/20220504_155813-800x600.jpg" alt="" class="wp-image-32158" srcset="https://hasparren.fr/wp-content/uploads/2022/05/20220504_155813-800x600.jpg 800w, https://hasparren.fr/wp-content/uploads/2022/05/20220504_155813-400x300.jpg 400w, https://hasparren.fr/wp-content/uploads/2022/05/20220504_155813-768x576.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/20220504_155813-1536x1152.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/20220504_155813-2048x1536.jpg 2048w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
-</div>
-
-
-
-<div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="600" src="https://hasparren.fr/wp-content/uploads/2022/05/20220504_165755-800x600.jpg" alt="" class="wp-image-32160" srcset="https://hasparren.fr/wp-content/uploads/2022/05/20220504_165755-800x600.jpg 800w, https://hasparren.fr/wp-content/uploads/2022/05/20220504_165755-400x300.jpg 400w, https://hasparren.fr/wp-content/uploads/2022/05/20220504_165755-768x576.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/20220504_165755-1536x1152.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/20220504_165755-2048x1536.jpg 2048w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
-</div>
-</div>
-
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<p>&nbsp;</p>
-<p class="western">Envie de se détendre, de s’amuser et de se lancer des défis&nbsp;?</p>
-<p class="western">Des grands jeux en bois seront à disposition <strong>les mercredis après-midi de 14h00 à 17h00</strong>, pour les petits et les grands. Venez nombreux, profitez d’un instant agréable et faites chauffer vos zygomatiques.</p>
-<p class="western">• Mercredi 04 (14:00-17:00) : <strong>Jardin Public</strong></p>
-<p class="western">• Mercredi 11 (14:00-17:00) : <strong>Place de l’église</strong></p>
-<p class="western">• <span style="color: #008000;">Mercredi 18 (14:00-17:00) : <strong>Jardin Eihartzea</strong></span></p>
-<p class="western">• Mercredi 25 (14:00-17:00) : <strong>Place devant le Centre Elgar</strong></p>
-</div>
-
-
-
-<div class="wp-block-column">
-<p class="western">&nbsp;</p>
-<p>Besoin de calme dans ce tourbillon de vitesse ?&nbsp;</p>
-<p>La médiathèque vous propose de partager un moment privilégié autour des livres, en autonomie ou avec une bibliothécaire.</p>
-<p class="western">Les 0-5 ans et leurs accompagnants pourront profiter de lectures « plaisir » individuelles, autour du thème du printemps.</p>
-<p class="western">L’occasion de passer un moment convivial, entre lectures et jeux en bois !</p>
-<ul>
-<li>
-<p>Mercredi 04 mai (14:00-17:00) : <strong>Jardin public</strong></p>
-</li>
-<li>
-<p><span style="color: #008000;">Mercredi 18 mai (14:00-17:00) :</span> <span style="color: #008000;"><strong>Jardin Eihartzea</strong></span></p>
-</li>
-</ul>
-</div>
-</div>
-
-
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hasparren.fr/jeux-en-bois-et-havre-de-lecture/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			<media:content url="https://hasparren.fr/wp-content/uploads/2022/05/gabariis-agenda-livre2.jpg" medium="image" />
-<post-id xmlns="com-wordpress:feed-additions:1">32157</post-id>	</item>
-		<item>
-		<title>Nun Dira Harriak ? Grand jeu de la Fête des mères</title>
-		<link>https://hasparren.fr/nun-dira-harriak-grand-jeu-de-la-fete-des-meres/</link>
-					<comments>https://hasparren.fr/nun-dira-harriak-grand-jeu-de-la-fete-des-meres/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Ade-urban]]></dc:creator>
-		<pubDate>Wed, 11 May 2022 10:22:50 +0000</pubDate>
-				<category><![CDATA[Actualité]]></category>
-		<guid isPermaLink="false">https://hasparren.fr/?p=32146</guid>
-
-					<description><![CDATA[Il est l’or&#8230; L’or de se mettre à chercher… Les Harriak* aux couleurs du printemps se sont échappés de leurs jardins et ont envahi les commerces de la ville ! Du [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:100%">
-<p class="western">Il est l’or&#8230; L’or de se mettre à chercher… Les Harriak* aux couleurs du printemps se sont échappés de leurs jardins et ont envahi les commerces de la ville !</p>
-<p class="western">Du 14 au 27 mai partez à leur recherche.</p>
-<p>Visitez 20 commerces au minimum pour valider votre participation. (Une participation par foyer).</p>
-<p class="western">Vous trouverez un bulletin de participation auprès de chaque commerçant membre de l’opération de recherche des Harriak. Completez-le et déposez-le dans la boîte aux lettres fleurie, place de l’église. </p>
-<p class="western">Tirage au sort des bulletins gagnants la veille de la fête des mères, le samedi 28 mai à 11h sur la place de l’Église. Une prime de 300 euros sera repartis entre les meilleurs chercheurs d’Harriak !</p>
-</div>
-</div>
-
-
-
-<div class="wp-block-columns">
-<div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="450" height="600" src="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4690-450x600.jpg" alt="" class="wp-image-32177" srcset="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4690-450x600.jpg 450w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4690-225x300.jpg 225w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4690-768x1024.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4690-1152x1536.jpg 1152w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4690-1536x2048.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4690-scaled.jpg 1920w" sizes="(max-width: 450px) 100vw, 450px" /><figcaption>Les commerçants et artisans donnent vie aux Harriak</figcaption></figure>
-</div>
-
-
-
-<div class="wp-block-column">
-<figure class="wp-block-image size-large"><img loading="lazy" width="800" height="600" src="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4691-800x600.jpg" alt="" class="wp-image-32179" srcset="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4691-800x600.jpg 800w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4691-400x300.jpg 400w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4691-768x576.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4691-1536x1152.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4691-2048x1536.jpg 2048w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption>Ils sont là!</figcaption></figure>
-</div>
-</div>
-
-
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hasparren.fr/nun-dira-harriak-grand-jeu-de-la-fete-des-meres/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			<media:content url="https://hasparren.fr/wp-content/uploads/2022/05/harriak.jpg" medium="image" />
-<post-id xmlns="com-wordpress:feed-additions:1">32146</post-id>	</item>
-		<item>
-		<title>Fête du Printemps! En mai fais ce qu’il te plaît</title>
-		<link>https://hasparren.fr/fete-du-printemps-en-mai-fais-ce-quil-te-plait/</link>
-					<comments>https://hasparren.fr/fete-du-printemps-en-mai-fais-ce-quil-te-plait/#respond</comments>
-		
-		<dc:creator><![CDATA[Jonathan Ade-urban]]></dc:creator>
-		<pubDate>Tue, 03 May 2022 15:26:32 +0000</pubDate>
-				<category><![CDATA[Actualité]]></category>
-		<guid isPermaLink="false">https://hasparren.fr/?p=31926</guid>
-
-					<description><![CDATA[  Hasparren s’est mis aux couleurs du printemps ! Les rues et les commerces de la ville ont revêtu leurs habits chatoyants pour fêter tous ensemble l’arrivée de la saison de [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:100%">
-<p> </p>
-<h2 class="western"><span style="font-size: 20px;"><em><strong>Hasparren s’est mis aux couleurs du printemps !</strong></em></span></h2>
-<p class="western"><img loading="lazy" class="alignleft wp-image-31941 size-medium" src="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4503-400x300.jpg" alt="" width="400" height="300" srcset="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4503-400x300.jpg 400w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4503-800x600.jpg 800w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4503-768x576.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4503-1536x1152.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4503-2048x1536.jpg 2048w" sizes="(max-width: 400px) 100vw, 400px" />Les rues et les commerces de la ville ont revêtu leurs habits chatoyants pour fêter tous ensemble l’arrivée de la saison de la renaissance. Le Parc Eihartzea et le jardin public sont évidemment à l’honneur lors de ce mois et ne vont pas manquer d’être décorés par l’association Ortzia aidée des enfants de la crèche municipale de Hasparren.</p>
-<p class="western"> </p>
-<p> </p>
-<p> </p>
-<h4 class="western"><strong><span style="font-size: 24px;">Marché aux fleurs</span><img loading="lazy" class="size-medium wp-image-31929 alignright" src="https://hasparren.fr/wp-content/uploads/2022/05/pexels-johnmark-smith-250716-450x300.jpg" alt="" width="450" height="300" srcset="https://hasparren.fr/wp-content/uploads/2022/05/pexels-johnmark-smith-250716-450x300.jpg 450w, https://hasparren.fr/wp-content/uploads/2022/05/pexels-johnmark-smith-250716-900x600.jpg 900w, https://hasparren.fr/wp-content/uploads/2022/05/pexels-johnmark-smith-250716-768x512.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/pexels-johnmark-smith-250716-1536x1024.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/pexels-johnmark-smith-250716-2048x1365.jpg 2048w" sizes="(max-width: 450px) 100vw, 450px" /></strong><br /><em><span style="text-decoration: underline;"><strong>Samedi 07 mai de 8h00 à 13h00 rue lissar</strong></span></em></h4>
-<p class="western">En ce premier samedi matin de mai, dans la rue Lissar, le traditionnel marché va s’étendre aux couleurs du printemps en proposant des étals de plants potagers, des ventes d’arbres fruitiers ou encore des ateliers de confection bois. Venez embrasser le printemps ce samedi 07 mai lors de ce marché d’un nouveau genre.<br />Animation avec Bailando vers 11h00.</p>
-<p> </p>
-<h4 class="western"><strong><span style="font-size: 24px;">Atelier Cirque : Parents/enfants</span><img loading="lazy" class="wp-image-31980 size-medium alignright" src="https://hasparren.fr/wp-content/uploads/2022/05/279047180_958631941519408_1554226690647348991_n-1-357x300.jpg" alt="" width="357" height="300" srcset="https://hasparren.fr/wp-content/uploads/2022/05/279047180_958631941519408_1554226690647348991_n-1-357x300.jpg 357w, https://hasparren.fr/wp-content/uploads/2022/05/279047180_958631941519408_1554226690647348991_n-1.jpg 600w" sizes="(max-width: 357px) 100vw, 357px" /></strong><br /><em><span style="text-decoration: underline;"><strong>Samedi 07 mai aux écuries de la Poste (place de l&#8217;église)<br /></strong></span></em><em><span style="text-decoration: underline;"><strong>10h00 à 11h00 pour les 3-6 ans<br /></strong></span></em><em><span style="text-decoration: underline;"><strong>11h00 à 12h00 pour les 7-10 ans<br /></strong></span></em></h4>
-<p class="western">Le monde féerique du cirque est à nos portes ! Parents et enfants, un atelier du cirque sera animé le samedi 07 mai à la place de l’église. Venez vous épanouir avec vos enfants grâce aux jeux du cirque !<br />Séance de 1h00 tarifé à 10€ par enfants.<br />Les réservations sont à faire à l&#8217;avance : <a href="telto:+33559296022">05.59.29.60.22.</a><br />(dans la limite des places disponibles)</p>
-<p> </p>
-<p> </p>
-<h4><span style="font-size: 24px;"><strong>Jeux en bois </strong></span></h4>
-<h4><em><strong> <img loading="lazy" class=" wp-image-31956 alignleft" src="https://hasparren.fr/wp-content/uploads/2022/05/jeux-en-bois-500x285.jpg" alt="" width="365" height="208" srcset="https://hasparren.fr/wp-content/uploads/2022/05/jeux-en-bois-500x285.jpg 500w, https://hasparren.fr/wp-content/uploads/2022/05/jeux-en-bois-1054x600.jpg 1054w, https://hasparren.fr/wp-content/uploads/2022/05/jeux-en-bois-768x437.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/jeux-en-bois.jpg 1500w" sizes="(max-width: 365px) 100vw, 365px" /></strong></em></h4>
-<h4><em><strong>• Mercredi 04 (14:00-17:00) : Jardin Public</strong></em><br /><em><strong>• Mercredi 11 (14:00-17:00) : Place de l’église</strong></em><br /><em><strong>• Mercredi 18 (14:00-17:00) : Jardin Eihartzea</strong></em><br /><em><strong>• Mercredi 25 (14:00-17:00) : Place devant le Centre Elgar</strong></em></h4>
-<p> </p>
-<p class="western"><br /><br />Envie de se détendre, de s’amuser et de se lancer des défis ?<br />Des grands jeux en bois seront à disposition les mercredis après-midi de 14h00 à 17h00, pour les petits et les grands. Venez nombreux, profitez d’un instant agréable et faites chauffer vos zygomatiques.</p>
-<p class="western"> </p>
-<p> </p>
-<h4><strong><span style="font-size: 24px;">Lire au grand air</span><br /></strong><em><strong>• Mercredi 04 mai (14:00-17:00) : Jardin public<br /></strong></em><em><strong>• Mercredi 18 mai (14:00-17:00) : Jardin Eihartzea</strong></em><br /><br /></h4>
-<p class="western"><img loading="lazy" class=" wp-image-31958 alignright" src="https://hasparren.fr/wp-content/uploads/2022/05/lire-dans-les-parcs-1-465x300.jpg" alt="" width="524" height="338" srcset="https://hasparren.fr/wp-content/uploads/2022/05/lire-dans-les-parcs-1-465x300.jpg 465w, https://hasparren.fr/wp-content/uploads/2022/05/lire-dans-les-parcs-1-931x600.jpg 931w, https://hasparren.fr/wp-content/uploads/2022/05/lire-dans-les-parcs-1-768x495.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/lire-dans-les-parcs-1-1536x990.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/lire-dans-les-parcs-1-2048x1320.jpg 2048w" sizes="(max-width: 524px) 100vw, 524px" />La médiathèque vous propose de partager un moment privilégié autour des livres, en autonomie ou avec une bibliothécaire !</p>
-<p class="western">Les 0-5 ans et leurs accompagnants pourront profiter de lectures « plaisir » individuelles, autour du thème du printemps.</p>
-<p class="western">Le petit plus : l’occasion de passer un moment convivial, entre lectures et jeux en bois !</p>
-<p class="western"> </p>
-<h4><span style="font-size: 24px;">Dantzari Ttiki<br /></span><em><strong>Fronton samedi 14 mai</strong></em></h4>
-<p class="western"><img loading="lazy" class="wp-image-31811 alignleft" src="https://hasparren.fr/wp-content/uploads/2022/03/Dantzari-Ttiki--210x300.jpg" alt="" width="233" height="333" />Créé il y a plus de 30 ans, le Dantzari ttiki est le rassemblement des jeunes danseurs (6-ll ans) des écoles de danse basque du Labourd &#8211; Basse Navarre et Soule.</p>
-<p> </p>
-<p class="western"><em><strong>10:00 : départ du défilé dans les rues du centre-ville d’Hasparren</strong></em><br /><em><strong>11:00 : spectacle de danse commun au fronton</strong></em><br /><em><strong>14:30 : bal au fronton</strong></em></p>
-<p class="western"><strong>8€ l&#8217;entrée à partir de 12 ans.</strong></p>
-<p> </p>
-<p> </p>
-<h4 class="western"><span style="font-size: 24px;"><strong>Balade guidée<br /></strong></span><em><strong>Dimanche 15 à mai 10h00</strong></em></h4>
-<p class="western">Sortie Nature dans les landes d’Hasparren avec le Conservatoire des Espaces Naturels Nouvelle Aquitaine et Euskal Herriko Laborantza Ganbara. <img loading="lazy" class="alignright wp-image-31927 " src="https://hasparren.fr/wp-content/uploads/2022/05/pexels-jill-wellington-413707-450x300.jpg" alt="" width="512" height="341" srcset="https://hasparren.fr/wp-content/uploads/2022/05/pexels-jill-wellington-413707-450x300.jpg 450w, https://hasparren.fr/wp-content/uploads/2022/05/pexels-jill-wellington-413707-900x600.jpg 900w, https://hasparren.fr/wp-content/uploads/2022/05/pexels-jill-wellington-413707-768x512.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/pexels-jill-wellington-413707-1536x1024.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/pexels-jill-wellington-413707-2048x1365.jpg 2048w" sizes="(max-width: 512px) 100vw, 512px" /></p>
-<p class="western">Le dimanche 15 Mai à 10 H00 (rdv au parking covoiturage de Briscous).</p>
-<p class="western">Venez découvrir la biodiversité autour des arbres têtards et le paysage bocager du piémont Basque!</p>
-<p class="western">Apprenez à observer et connaître cet environnement hérité du pastoralisme traditionnel et les interactions constantes entre l’homme et la nature.</p>
-<p class="western">Merci de vous inscrire au <a href="tel:+33559371882" rel="">05.59.37.18.82</a></p>
-<p class="western"> </p>
-<p> </p>
-<h4 class="western"><span style="font-size: 24px;"><strong>Bourse aux plantes<br /></strong></span><em><strong>Eihartzea &#8211; samedi 21 mai 10:30 13:00</strong></em></h4>
-<p class="western"><img loading="lazy" class=" wp-image-31937 alignleft" src="https://hasparren.fr/wp-content/uploads/2022/05/arton197-330x300.jpg" alt="" width="300" height="273" srcset="https://hasparren.fr/wp-content/uploads/2022/05/arton197-330x300.jpg 330w, https://hasparren.fr/wp-content/uploads/2022/05/arton197.jpg 439w" sizes="(max-width: 300px) 100vw, 300px" />Amateurs de jardins et de plantes en tous genres ?</p>
-<p class="western">Venez échanger vos graines, boutures, arbres et plants autour de votre passion le samedi 21 mai de 10h30 à 13h00 au parc Eihartzea. Curieux de découvrir un nouvel univers ? N’hésitez pas à venir vous renseigner auprès de spécialistes du genre.<br />A cette occasion l&#8217;association <strong><em>éveiller sa nature</em></strong> proposera dans le parc des balades botaniques pour adultes et enfants (10h30 et 11h30 dans la limite des places disponibles sur inscription au : <a href="telto:0683947799">06.83.94.77.99 </a>ou par mail au : <a href="mailto:eveiller.sa.nature@tutamail.com">eveiller.sa.nature@tutamail.com</a></p>
-<p class="western">A l’issue de ces rencontres un espace pourra être consacré à la plantation de certaines variétés, autour d’une collation rafraîchissante bien évidemment.</p>
-<p class="western"> </p>
-<p class="western"> </p>
-<p> </p>
-<h4 class="western"><span style="font-size: 24px;"><strong>Vélos fleuris<br /></strong></span><em><strong>Départ Parking Xapitalia – samedi 21 mai 16h00</strong></em></h4>
-<p class="western">A vos marques, prêts, décorez !<img loading="lazy" class="size-medium wp-image-31960 alignright" src="https://hasparren.fr/wp-content/uploads/2022/05/velo-4-500x285.jpg" alt="" width="500" height="285" /><br />Défilé sur la piste cyclable fraîchement installée à Hasparren. Vélos, trottinettes, skates, rollers, sortez vos deux-roues fleuris et venez parader le long de la piste cyclable avec tous les autres « <em>riders</em> ». Une collation sera offerte dans la cour de l’école élémentaire Jean Verdun pour les enfants participants.</p>
-<p class="western">Piétons, ne soyez pas en reste, venez participer à la parade, en arborant chapeaux fleuris et autres foulards, robes ou T-shirt aux motifs printaniers.</p>
-<p> </p>
-<h4 class="western"><strong><span style="font-size: 24px;">Grand jeu fête des mères organisé par l’UCA ( Union des Commerçants et Artisans d’Hasparren)</span><br /><br /></strong></h4>
-<p class="western"><img loading="lazy" class=" wp-image-31943 alignleft" src="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4498-225x300.jpg" alt="" width="131" height="175" srcset="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4498-225x300.jpg 225w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4498-450x600.jpg 450w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4498-768x1024.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4498-1152x1536.jpg 1152w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4498-1536x2048.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4498-scaled.jpg 1920w" sizes="(max-width: 131px) 100vw, 131px" />Il est l’or&#8230; L’or de se mettre à chercher… Les Harriak (cailloux en Euskara) aux couleurs du printemps se sont échappés de leurs jardins et ont envahi les commerces de la ville !</p>
-<p class="western"><em><strong>Du 14 au 27 mai</strong></em> partez à leur recherche.<img loading="lazy" class="wp-image-31945 alignright" src="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4497-225x300.jpg" alt="" width="134" height="179" srcset="https://hasparren.fr/wp-content/uploads/2022/05/IMG_4497-225x300.jpg 225w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4497-450x600.jpg 450w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4497-768x1024.jpg 768w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4497-1152x1536.jpg 1152w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4497-1536x2048.jpg 1536w, https://hasparren.fr/wp-content/uploads/2022/05/IMG_4497-scaled.jpg 1920w" sizes="(max-width: 134px) 100vw, 134px" /></p>
-<p class="western">Vous trouverez un bulletin de participation auprès de chaque commerçant membre de l’opération de recherche des Harriak. Complétez-le et déposez-le dans la boîte aux lettres fleurie, place de l’église. Visitez 20 commerces au minimum pour valider votre participation. (Une participation par foyer).</p>
-<p class="western">Tirage au sort des bulletins gagnants la veille de la fête des mères,<span style="text-decoration: underline;"> le samedi 28 mai à 11h</span> sur la place de l’Église. Une prime de <em>300 euros</em> sera repartis entre les meilleurs chercheurs.</p>
-<p> </p>
-<p><a href="https://hasparren.fr/wp-content/uploads/2022/05/Flyers-A5-fete-du-printemps.pdf" target="_blank" rel="noopener">Flyers A5 fete du printemps</a></p>
-<p> </p>
-</div>
-</div>
-
-
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hasparren.fr/fete-du-printemps-en-mai-fais-ce-quil-te-plait/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			<media:content url="https://hasparren.fr/wp-content/uploads/2022/05/actu-fete-du-printemps-1054x600.jpg" medium="image" />
-<post-id xmlns="com-wordpress:feed-additions:1">31926</post-id>	</item>
-		<item>
-		<title>Transport à la demande</title>
-		<link>https://hasparren.fr/transports-a-la-demande/</link>
-					<comments>https://hasparren.fr/transports-a-la-demande/#respond</comments>
-		
-		<dc:creator><![CDATA[S CECI]]></dc:creator>
-		<pubDate>Fri, 09 Apr 2021 13:54:51 +0000</pubDate>
-				<category><![CDATA[Actualité]]></category>
-		<guid isPermaLink="false">http://s864240641.onlinehome.fr/NewWp/?p=19678</guid>
-
-					<description><![CDATA[Un service de la ville, à votre disposition ! Une mobilité retrouvée ! Du domicile vers toute destination à Hasparren ! Réservation Téléphone : 05 59 70 20 36 &#8211; [&#8230;]]]></description>
-										<content:encoded><![CDATA[<h2>Un service de la ville, à votre disposition !</h2>
-<p>Une mobilité retrouvée ! Du domicile vers toute destination à Hasparren !</p>
-<h3>Réservation</h3>
-<p>Téléphone : <a href="tel:+33615485628">05 59 70 20 36 </a>&#8211; 48 heures avant la course</p>
-<h3 >Informations</h3>
-<p><strong>Tarif d&#8217;un trajet simple</strong> : 2.5 Euros <strong>Tarif Aller-Retour</strong> : 5 Euros <strong>Le service :</strong> Un des taxis viendra chercher l’utilisateur à domicile pour l’emmener à l’endroit de son choix,<strong> uniquement sur le territoire de Hasparren. Les jours d’ouverture de ce service sont</strong> :</p>
-<ul>
-<li >le mardi et le jeudi toute la journée,</li>
-<li >le mercredi après-midi et le samedi matin.</li>
-</ul>
-<p><strong>Pour les personnes à mobilité réduite, le service est disponible, du lundi au vendredi, le matin et l’après-midi. </strong></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://hasparren.fr/transports-a-la-demande/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			<media:content url="https://hasparren.fr/wp-content/uploads/2021/04/TAD-G-1-scaled-e1617977006942.jpg" medium="image" />
-<post-id xmlns="com-wordpress:feed-additions:1">19678</post-id>	</item>
-	</channel>
+<title>CARENE Saint-Nazaire agglomération</title>
+<link>http://example.com</link>
+<description/>
+<language>fr</language>
+<copyright>CARENE Saint-Nazaire agglomération</copyright>
+<pubDate>Wed, 25 May 2022 11:58:16 +0200</pubDate>
+<lastBuildDate>Wed, 25 May 2022 11:58:16 +0200</lastBuildDate>
+<atom:link href="https://www.agglo-carene.fr/liens-utiles/flux-rss/rss-agenda/flux.rss" rel="self" type="application/rss+xml"/>
+<generator>TYPO3 EXT:news</generator>
+<item>
+<title>Villas Belle Époque</title>
+<link>https://www.saintnazaire.fr/agenda/villas-belle-epoque-24269</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Parcourez les avenues de Pornichet &agrave; la d&eacute;couverte de ses villas nich&eacute;es dans leur &eacute;crin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renomm&eacute;e &agrave; la Belle &Eacute;poque. Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7425226_0.jpg</image>
+<ev:startdate>Sat, 17 Dec 2022 00:00:00 +0100</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.25963</geo:lat>
+<geo:long>-2.339715</geo:long>
+</item>
+<item>
+<title>Villas Belle Époque</title>
+<link>https://www.saintnazaire.fr/agenda/villas-belle-epoque-24268</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Parcourez les avenues de Pornichet &agrave; la d&eacute;couverte de ses villas nich&eacute;es dans leur &eacute;crin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renomm&eacute;e &agrave; la Belle &Eacute;poque. Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7425222_0.jpg</image>
+<ev:startdate>Sat, 19 Nov 2022 00:00:00 +0100</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.25963</geo:lat>
+<geo:long>-2.339715</geo:long>
+</item>
+<item>
+<title>Deuil allemand Commémoration des Victimes des Guerres</title>
+<link>https://www.saintnazaire.fr/agenda/deuil-allemand-commemoration-des-victimes-des-guerres-26005</link>
+<content:encoded>
+<![CDATA[ 10h45, c&eacute;r&eacute;monie au Carr&eacute; Militaire fran&ccedil;ais; 11h, c&eacute;r&eacute;monie au Cimeti&egrave;re allemand. Horaires : &agrave; 11h Organisateur : Ville de Pornichet ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/6/2/csm_infolocale_7556551_0_2f235738d3.jpg</image>
+<ev:startdate>Sun, 13 Nov 2022 00:00:00 +0100</ev:startdate>
+<ev:enddate/>
+<ev:location>Cimetière, route de villès Mahaud</ev:location>
+<geo:lat>47.25721</geo:lat>
+<geo:long>-2.319317</geo:long>
+</item>
+<item>
+<title>Futurs septuagénaires trignacais</title>
+<link>https://www.saintnazaire.fr/agenda/futurs-septuagenaires-trignacais-24162</link>
+<category>Fête, repas, soirée</category>
+<content:encoded>
+<![CDATA[ Vous avez &eacute;t&eacute; &eacute;l&egrave;ve aux &eacute;coles Jean-Jaur&egrave;s et Marie-Curie de Trignac dans les ann&eacute;es 1950-1960. Vous &ecirc;tes n&eacute; en 1952. Vous souhaitez f&ecirc;ter vos 70 ans entre amis &laquo; de la classe &raquo;. Inscrivez-vous pour une rencontre fin 2022. Tarif : Payant Renseignement : 0687783093, chrisrea56@gmail.com Organisateur : Trignac 1952 ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/a/6/csm_infolocale_7415018_0_cfd2b292cb.jpg</image>
+<ev:startdate>Mon, 31 Oct 2022 00:00:00 +0100</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.31752</geo:lat>
+<geo:long>-2.18823</geo:long>
+</item>
+<item>
+<title>Villas Belle Époque</title>
+<link>https://www.saintnazaire.fr/agenda/villas-belle-epoque-24267</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Parcourez les avenues de Pornichet &agrave; la d&eacute;couverte de ses villas nich&eacute;es dans leur &eacute;crin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renomm&eacute;e &agrave; la Belle &Eacute;poque. Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7425218_0.jpg</image>
+<ev:startdate>Sat, 15 Oct 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.25963</geo:lat>
+<geo:long>-2.339715</geo:long>
+</item>
+<item>
+<title>Festival Afro Latino Pornichet</title>
+<link>https://www.saintnazaire.fr/agenda/festival-afro-latino-pornichet-24696</link>
+<category>Festival</category>
+<content:encoded>
+<![CDATA[ Le festival c&#039;est 30 h de stages, 2 soir&eacute;ees dansantes vendredi et samedi et un dimanche apres-midi dansant. &lt;div style=&quot;text-align:center;&quot; class=&quot;videoEmbed&quot;&gt;&lt;iframe frameborder=&quot;0&quot; width=&quot;560&quot; height=&quot;349&quot; src=&quot;https://www.youtube.com/embed/0APqfWu_hWY&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;h2&gt;Festival Afro Latino Pornichet&amp;nbsp;&lt;/h2&gt;&lt;p&gt;Vous&amp;nbsp;aimez la salsa bachata ou encore les danses Africaines...&lt;br /&gt;Alors n&amp;#39;attendez plus bloquer votre week-end du 14, 15 et 16 octobre pour le festival Afro Latino.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Le concept&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;30 heures de stages tous niveaux et au choix&lt;/li&gt;&lt;li&gt;2 soir&amp;eacute;ees dansantes vendredi et samedi&lt;/li&gt;&lt;li&gt;1 apr&amp;egrave;s-midi dansant le dimanche&lt;/li&gt;&lt;li&gt;1 spectacle de danse le samedi&lt;/li&gt;&lt;li&gt;show de danses br&amp;eacute;silienne et capoeira&lt;/li&gt;&lt;li&gt;restauration sur place&lt;/li&gt;&lt;li&gt;40 b&amp;eacute;n&amp;eacute;voles&amp;nbsp;&lt;/li&gt;&lt;li&gt;30 intervenants (profs et DJs)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Pour plus d&amp;#39;information, nous contacter directement car le planning sera charg&amp;eacute;.&lt;br /&gt;Nous vous attendons nombreux &amp;agrave; l&amp;#39;hippodrome de Pornichet pour un week-end de folie !&lt;/p&gt; Tarif : Payant Renseignement : 0628606450, sportschallenger44@gmail.com, http://zumba-salsa.com Organisateur : Danse Afro Latine Pornichet ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/a/6/csm_infolocale_7453254_0_d461154484.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/c/f/csm_infolocale_7453254_1_f62540c36d.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/8/9/csm_infolocale_7453254_2_a6a9f9f7c7.jpg</image>
+<ev:startdate>Fri, 14 Oct 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate>Sun, 16 Oct 2022 00:00:00 +0200</ev:enddate>
+<ev:location>hippodrome, 1, boulevard de Saint-Nazaire</ev:location>
+<geo:lat>47.26027</geo:lat>
+<geo:long>-2.332549</geo:long>
+</item>
+<item>
+<title>Rando VTT</title>
+<link>https://www.saintnazaire.fr/agenda/rando-vtt-25781</link>
+<category>Sport</category>
+<content:encoded>
+<![CDATA[ Rando VTT de la C&ocirc;te d&rsquo;Amour organis&eacute;e par les Cyclos de la C&ocirc;te de Pornichet. Nouveaux circuits : 17, 25, 35 et 55 km. Parcours fl&eacute;ch&eacute;s. D&eacute;part &agrave; partir de 8 h. Horaires : de 8h &agrave; 13h Tarif : Payant Renseignement : 0662074112, 0662292960, cyclos.44380@gmail.com, http://club.quomodo.com/cyclos_pornichet Organisateur : Les Cyclos de la C&ocirc;te ]]>
+</content:encoded>
+<ev:startdate>Sun, 09 Oct 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>RDV salle des Forges, Les Forges</ev:location>
+<geo:lat>47.27079</geo:lat>
+<geo:long>-2.292409</geo:long>
+</item>
+<item>
+<title>Visite guidée : « La base sous-marine, histoire d’une reconquête »</title>
+<link>https://www.saintnazaire.fr/agenda/visite-guidee-la-base-sous-marine-histoire-d-une-reconquete-25090</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ &Eacute;difi&eacute;e pour les sous-marins allemands lors de la Seconde Guerre mondiale, l&rsquo;impressionnante forteresse de b&eacute;ton s&rsquo;int&egrave;gre d&eacute;sormais dans le paysage urbain. Lors d&rsquo;une visite guid&eacute;e, percez les secrets de cet impressionnant monument du XXe si&egrave;cle. Chaque dimanche, conseill&eacute; &agrave; partir de 12 ans. &lt;p&gt;Hier forteresse d&amp;eacute;fensive de l&amp;rsquo;arm&amp;eacute;e allemande abritant ses sous-marins, la base sous-marine est aujourd&amp;rsquo;hui un lieu d&amp;rsquo;activit&amp;eacute;s culturelles et touristiques. D&amp;eacute;couvrez &amp;agrave; travers ce monument le destin particulier de Saint-Nazaire.&lt;/p&gt;&lt;p&gt;Vous allez percer les myst&amp;egrave;res de cet impressionnant monument au c&amp;oelig;ur de la ville en prenant part &amp;agrave; une visite guid&amp;eacute;e, pour en savoir plus sur ce monument qui s&amp;rsquo;est vu attribuer le label&amp;nbsp;Patrimoine du XXe si&amp;egrave;cle&amp;nbsp;par le minist&amp;egrave;re de la Culture. De la Seconde Guerre mondiale &amp;agrave; la reconqu&amp;ecirc;te urbaine, percez les secrets de cette impressionnante base sous-marine au c&amp;oelig;ur de la ville.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Conseill&amp;eacute; &amp;agrave; partir de 12 ans&lt;/li&gt;&lt;li&gt;D&amp;eacute;conseill&amp;eacute; aux personnes ayant du mal &amp;agrave; marcher&lt;/li&gt;&lt;li&gt;R&amp;eacute;servation obligatoire&lt;/li&gt;&lt;/ul&gt; Horaires : de 17h &agrave; 18h10 Tarif : Payant Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, http://www.saint-nazaire-tourisme.com Organisateur : Saint-Nazaire Renversante ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_0.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_1.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_2.jpg</image>
+<ev:startdate>Sun, 25 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>base sous-marine, boulevard de la Légion-d’Honneur</ev:location>
+<geo:lat>47.27475</geo:lat>
+<geo:long>-2.203531</geo:long>
+</item>
+<item>
+<title>Dessins, estampes du patrimoine nazairien</title>
+<link>https://www.saintnazaire.fr/agenda/dessins-estampes-du-patrimoine-nazairien-26197</link>
+<category>Expositions</category>
+<content:encoded>
+<![CDATA[ Jean-Clair exposera durant les week-ends des 24 et 25 sept, 1er et 2 octobre et 8 et 9 octobre ses dessins &agrave; l&rsquo;encre, ses gravures sur m&eacute;tal, ainsi que ses linogravures sur le th&egrave;me du patrimoine b&acirc;ti de la r&eacute;gion nazairienne. &lt;p&gt;Jean-Clair exposera durant les 3 week-ends du 24/25 sept, 1/2 oct et 8/9 oct ses dessins &amp;agrave;&amp;nbsp;l &amp;#39; encre, ses gravures sur m&amp;eacute;tal, ainsi que ses linogravures sur le th&amp;egrave;me du patrimoine b&amp;acirc;ti de la r&amp;eacute;gion nazairienne.&lt;/p&gt;&lt;p&gt;Site de l&amp;rsquo;artiste&amp;thinsp;: jcdessingravure.fr&lt;/p&gt; Horaires : de 15h &agrave; 19h Tarif : Gratuit Organisateur : Jean-Clair Cougnaud, dessins ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/9/a/csm_infolocale_7569741_0_99942d5a53.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/6/2/csm_infolocale_7569741_1_343eb62efa.jpg</image>
+<ev:startdate>Sat, 24 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate>Sun, 25 Sep 2022 00:00:00 +0200</ev:enddate>
+<ev:location>fort Villes, 5, rue Ferdinand-Buisson</ev:location>
+<geo:lat>47.2564</geo:lat>
+<geo:long>-2.229929</geo:long>
+</item>
+<item>
+<title>Les incontournables de Pornichet</title>
+<link>https://www.saintnazaire.fr/agenda/les-incontournables-de-pornichet-26095</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Une visite guid&eacute;e passionnante pour conna&icirc;tre l&rsquo;essentiel de Pornichet, d&eacute;couvrir ses lieux embl&eacute;matiques, admirer son patrimoine. Horaires : de 10h &agrave; 11h30 Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560600_0.jpg</image>
+<ev:startdate>Thu, 22 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.26723</geo:lat>
+<geo:long>-2.34145</geo:long>
+</item>
+<item>
+<title>Sur la trace des fondateurs de Pornichet</title>
+<link>https://www.saintnazaire.fr/agenda/sur-la-trace-des-fondateurs-de-pornichet-25993</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Florence vous fera partager sa passion pour le patrimoine et l&rsquo;histoire de Pornichet. Partez &eacute;galement &agrave; la rencontre des villas m&eacute;connues du centre-ville : la premi&egrave;re thalasso, les &eacute;curies devenues villa, les quadrupl&eacute;s de M. Flornoy. Horaires : de 10h &agrave; 11h30 Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7555114_0.jpg</image>
+<ev:startdate>Thu, 15 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.25963</geo:lat>
+<geo:long>-2.339715</geo:long>
+</item>
+<item>
+<title>Visite guidée : « La base sous-marine, histoire d’une reconquête »</title>
+<link>https://www.saintnazaire.fr/agenda/visite-guidee-la-base-sous-marine-histoire-d-une-reconquete-25089</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ &Eacute;difi&eacute;e pour les sous-marins allemands lors de la Seconde Guerre mondiale, l&rsquo;impressionnante forteresse de b&eacute;ton s&rsquo;int&egrave;gre d&eacute;sormais dans le paysage urbain. Lors d&rsquo;une visite guid&eacute;e, percez les secrets de cet impressionnant monument du XXe si&egrave;cle. Chaque dimanche, conseill&eacute; &agrave; partir de 12 ans. &lt;p&gt;Hier forteresse d&amp;eacute;fensive de l&amp;rsquo;arm&amp;eacute;e allemande abritant ses sous-marins, la base sous-marine est aujourd&amp;rsquo;hui un lieu d&amp;rsquo;activit&amp;eacute;s culturelles et touristiques. D&amp;eacute;couvrez &amp;agrave; travers ce monument le destin particulier de Saint-Nazaire.&lt;/p&gt;&lt;p&gt;Vous allez percer les myst&amp;egrave;res de cet impressionnant monument au c&amp;oelig;ur de la ville en prenant part &amp;agrave; une visite guid&amp;eacute;e, pour en savoir plus sur ce monument qui s&amp;rsquo;est vu attribuer le label&amp;nbsp;Patrimoine du XXe si&amp;egrave;cle&amp;nbsp;par le minist&amp;egrave;re de la Culture. De la Seconde Guerre mondiale &amp;agrave; la reconqu&amp;ecirc;te urbaine, percez les secrets de cette impressionnante base sous-marine au c&amp;oelig;ur de la ville.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Conseill&amp;eacute; &amp;agrave; partir de 12 ans&lt;/li&gt;&lt;li&gt;D&amp;eacute;conseill&amp;eacute; aux personnes ayant du mal &amp;agrave; marcher&lt;/li&gt;&lt;li&gt;R&amp;eacute;servation obligatoire&lt;/li&gt;&lt;/ul&gt; Horaires : de 17h &agrave; 18h10 Tarif : Payant Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, http://www.saint-nazaire-tourisme.com Organisateur : Saint-Nazaire Renversante ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_0.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_1.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_2.jpg</image>
+<ev:startdate>Sun, 11 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>base sous-marine, boulevard de la Légion-d’Honneur</ev:location>
+<geo:lat>47.27475</geo:lat>
+<geo:long>-2.203531</geo:long>
+</item>
+<item>
+<title>Les incontournables de Pornichet</title>
+<link>https://www.saintnazaire.fr/agenda/les-incontournables-de-pornichet-26094</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Une visite guid&eacute;e passionnante pour conna&icirc;tre l&rsquo;essentiel de Pornichet, d&eacute;couvrir ses lieux embl&eacute;matiques, admirer son patrimoine. Horaires : de 10h &agrave; 11h30 Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560590_0.jpg</image>
+<ev:startdate>Thu, 08 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.26723</geo:lat>
+<geo:long>-2.34145</geo:long>
+</item>
+<item>
+<title>Exposition photographies : « Les ami.e.s des sels d'argent », collective ASA</title>
+<link>https://www.saintnazaire.fr/agenda/exposition-photographies-les-ami-e-s-des-sels-dargent-collective-asa-25780</link>
+<category>Expositions</category>
+<content:encoded>
+<![CDATA[ Loin d&#039;une vision pass&eacute;iste, le collectif ASA qui regroupe une trentaine de photographes passionn&eacute;s, a &agrave; c&oelig;ur de mettre en &eacute;vidence toute la richesse de l&#039;argentique pour une pratique contemporaine de la photographie dans laquelle la mati&egrave;re photographique a une place essentielle. Tarif : Gratuit Renseignement : expositions@mairie-pornichet.fr, https://www.ville-pornichet.fr/ Organisateur : Ville de Pornichet ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7535271_0.jpg</image>
+<ev:startdate>Tue, 06 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate>Sat, 01 Oct 2022 00:00:00 +0200</ev:enddate>
+<ev:location>Salle d’exposition, Place du Marché</ev:location>
+<geo:lat>47.26031</geo:lat>
+<geo:long>-2.337846</geo:long>
+</item>
+<item>
+<title>Visite guidée : « La base sous-marine, histoire d’une reconquête »</title>
+<link>https://www.saintnazaire.fr/agenda/visite-guidee-la-base-sous-marine-histoire-d-une-reconquete-25088</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ &Eacute;difi&eacute;e pour les sous-marins allemands lors de la Seconde Guerre mondiale, l&rsquo;impressionnante forteresse de b&eacute;ton s&rsquo;int&egrave;gre d&eacute;sormais dans le paysage urbain. Lors d&rsquo;une visite guid&eacute;e, percez les secrets de cet impressionnant monument du XXe si&egrave;cle. Chaque dimanche, conseill&eacute; &agrave; partir de 12 ans. &lt;p&gt;Hier forteresse d&amp;eacute;fensive de l&amp;rsquo;arm&amp;eacute;e allemande abritant ses sous-marins, la base sous-marine est aujourd&amp;rsquo;hui un lieu d&amp;rsquo;activit&amp;eacute;s culturelles et touristiques. D&amp;eacute;couvrez &amp;agrave; travers ce monument le destin particulier de Saint-Nazaire.&lt;/p&gt;&lt;p&gt;Vous allez percer les myst&amp;egrave;res de cet impressionnant monument au c&amp;oelig;ur de la ville en prenant part &amp;agrave; une visite guid&amp;eacute;e, pour en savoir plus sur ce monument qui s&amp;rsquo;est vu attribuer le label&amp;nbsp;Patrimoine du XXe si&amp;egrave;cle&amp;nbsp;par le minist&amp;egrave;re de la Culture. De la Seconde Guerre mondiale &amp;agrave; la reconqu&amp;ecirc;te urbaine, percez les secrets de cette impressionnante base sous-marine au c&amp;oelig;ur de la ville.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Conseill&amp;eacute; &amp;agrave; partir de 12 ans&lt;/li&gt;&lt;li&gt;D&amp;eacute;conseill&amp;eacute; aux personnes ayant du mal &amp;agrave; marcher&lt;/li&gt;&lt;li&gt;R&amp;eacute;servation obligatoire&lt;/li&gt;&lt;/ul&gt; Horaires : de 17h &agrave; 18h10 Tarif : Payant Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, http://www.saint-nazaire-tourisme.com Organisateur : Saint-Nazaire Renversante ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_0.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_1.jpg</image>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7482296_2.jpg</image>
+<ev:startdate>Sun, 04 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>base sous-marine, boulevard de la Légion-d’Honneur</ev:location>
+<geo:lat>47.27475</geo:lat>
+<geo:long>-2.203531</geo:long>
+</item>
+<item>
+<title>La Corse</title>
+<link>https://www.saintnazaire.fr/agenda/la-corse-24833</link>
+<content:encoded>
+<![CDATA[ La commission loisirs des Retrait&eacute;s CFDT organise un voyage en Corse du 3 au 10 septembre 2022. Les personnes int&eacute;ress&eacute;es peuvent se renseigner au 02 40 22 54 62, le mardi de 14 h 30 &agrave; 16 h. Tarif : Payant Organisateur : Union locale des retrait&eacute;s CFDT Saint-Nazaire ]]>
+</content:encoded>
+<ev:startdate>Sat, 03 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate>Sat, 10 Sep 2022 00:00:00 +0200</ev:enddate>
+<ev:location>La Corse</ev:location>
+<geo:lat>47.27517</geo:lat>
+<geo:long>-2.209643</geo:long>
+</item>
+<item>
+<title>La Corse</title>
+<link>https://www.saintnazaire.fr/agenda/la-corse-25171</link>
+<content:encoded>
+<![CDATA[ La commission loisirs des Retrait&eacute;s CFDT organise un voyage en Corse du 3 au 10 septembre 2022. Les personnes int&eacute;ress&eacute;es peuvent se renseigner au 02 40 22 54 62, le mardi de 14 h 30 &agrave; 16 h. Tarif : Payant Organisateur : Union locale des retrait&eacute;s CFDT Saint-Nazaire ]]>
+</content:encoded>
+<ev:startdate>Sat, 03 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate>Sat, 10 Sep 2022 00:00:00 +0200</ev:enddate>
+<ev:location>La Corse</ev:location>
+<geo:lat>47.27517</geo:lat>
+<geo:long>-2.209643</geo:long>
+</item>
+<item>
+<title>Journée portes ouvertes du SNOS Aviron</title>
+<link>https://www.saintnazaire.fr/agenda/journee-portes-ouvertes-du-snos-aviron-25988</link>
+<category>Sport</category>
+<content:encoded>
+<![CDATA[ Le temps d&rsquo;une journ&eacute;e, venez vous initier &agrave; l&rsquo;aviron avec le SNOS Aviron de Saint-Nazaire, labellis&eacute; 3 &eacute;toiles. La journ&eacute;e d&eacute;couverte est ouverte &agrave; tous les publics &agrave; partir de 10 ans. Accueil possible pour les personnes en situation de handicap : contactez directement le club. &lt;p&gt;Le temps d&amp;rsquo;une journ&amp;eacute;e, venez vous initier &amp;agrave; l&amp;rsquo;aviron avec le SNOS Aviron de Saint-Nazaire, labellis&amp;eacute; 3 &amp;eacute;toiles.&lt;/p&gt;&lt;p&gt;La journ&amp;eacute;e d&amp;eacute;couverte est ouverte &amp;agrave; tous les publics &amp;agrave; partir de 10&amp;nbsp;ans.&lt;/p&gt;&lt;p&gt;Accueil possible pour les personnes en situation de handicap&amp;thinsp;: contactez directement le club pour plus d&amp;rsquo;informations.&lt;/p&gt; Horaires : de 9h &agrave; 17h Tarif : Gratuit Renseignement : 0676128322, d.quessaud@societe-rft.com, https://snosaviron.wordpress.com/ Organisateur : d&eacute;partement de Loire-Atlantique ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7541804_0.jpg</image>
+<ev:startdate>Sat, 03 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>étang du bois Joalland</ev:location>
+<geo:lat>47.27879</geo:lat>
+<geo:long>-2.256636</geo:long>
+</item>
+<item>
+<title>Journée portes ouvertes du Brivet canoë-kayak</title>
+<link>https://www.saintnazaire.fr/agenda/journee-portes-ouvertes-du-brivet-canoe-kayak-25989</link>
+<category>Sport</category>
+<content:encoded>
+<![CDATA[ Le temps d&rsquo;une journ&eacute;e, venez vous initier aux diff&eacute;rentes disciplines du cano&euml;-kayak et des sports de pagaies. Il est indispensable de savoir nager ou au minimum de savoir se mettre en immersion dans l&rsquo;eau. Il est &eacute;galement demand&eacute; une autonomie physique permettant de monter seul dans un kayak. &lt;p&gt;Le temps d&amp;rsquo;une journ&amp;eacute;e, &lt;strong&gt;le samedi 3&amp;nbsp;septembre&lt;/strong&gt;, venez vous initier aux diff&amp;eacute;rentes disciplines du cano&amp;euml;-kayak et des sports de pagaies.&lt;/p&gt;&lt;p&gt;Il est indispensable de savoir nager ou au minimum de savoir se mettre en immersion dans l&amp;rsquo;eau. Il est &amp;eacute;galement demand&amp;eacute; une autonomie physique permettant de monter seul dans un kayak.&lt;/p&gt; Horaires : de 10h &agrave; 16h Tarif : Gratuit Renseignement : 0616776695, brivetcanoekayak44@gmail.com, https://brivetcanoekayak44.wixsite.com/bck-club-de-kayak Organisateur : d&eacute;partement de Loire-Atlantique ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7541914_0.jpg</image>
+<ev:startdate>Sat, 03 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>base du Pont-de-Paille, rue Jules-Auffret</ev:location>
+<geo:lat>47.32154</geo:lat>
+<geo:long>-2.193832</geo:long>
+</item>
+<item>
+<title>Sur la trace des fondateurs de Pornichet</title>
+<link>https://www.saintnazaire.fr/agenda/sur-la-trace-des-fondateurs-de-pornichet-25992</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Florence vous fera partager sa passion pour le patrimoine et l&rsquo;histoire de Pornichet. Partez &eacute;galement &agrave; la rencontre des villas m&eacute;connues du centre-ville : la premi&egrave;re thalasso, les &eacute;curies devenues villa, les quadrupl&eacute;s de M. Flornoy. Horaires : de 10h &agrave; 11h30 Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7555111_0.jpg</image>
+<ev:startdate>Thu, 01 Sep 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.25963</geo:lat>
+<geo:long>-2.339715</geo:long>
+</item>
+<item>
+<title>Fin de journée à la pointe du Bé</title>
+<link>https://www.saintnazaire.fr/agenda/fin-de-journee-a-la-pointe-du-be-26097</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Profitez de l&#039;atmosph&egrave;re unique et de la douceur de vivre de ce quartier et d&eacute;couvrez sa plage, la chapelle Sainte-Anne, ses villas, le Ch&acirc;teau des Tourelles. Horaires : de 18h &agrave; 19h Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560825_0.jpg</image>
+<ev:startdate>Wed, 31 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.26723</geo:lat>
+<geo:long>-2.34145</geo:long>
+</item>
+<item>
+<title>Villas Belle époque</title>
+<link>https://www.saintnazaire.fr/agenda/villas-belle-epoque-26096</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Laissez-vous transporter et admirez les majestueuses villas pornich&eacute;tines nich&eacute;es dans leur &eacute;crin de verdure. Des visites incomparables au d&eacute;tour des belles avenues pour (re)d&eacute;couvrir le riche patrimoine baln&eacute;aire de Pornichet, station renomm&eacute;e &agrave; la Belle &eacute;poque. Horaires : de 10h &agrave; 11h30 Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560718_0.jpg</image>
+<ev:startdate>Mon, 29 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.26723</geo:lat>
+<geo:long>-2.34145</geo:long>
+</item>
+<item>
+<title>Concert « Comme un air de France », par le Racing jazz club</title>
+<link>https://www.saintnazaire.fr/agenda/concert-comme-un-air-de-france-par-le-racing-jazz-club-25616</link>
+<category>Concert</category>
+<content:encoded>
+<![CDATA[ &Agrave; bord des paquebots transatlantiques, la travers&eacute;e se fait souvent en musique. En plein air, retrouvez cette ambiance de f&ecirc;te dans un concert aux sonorit&eacute;s des ann&eacute;es 1960, men&eacute; par le Racing jazz club. Gratuit. &lt;p&gt;&lt;strong&gt;Concert de plein air inspir&amp;eacute; des ann&amp;eacute;es 1960 et de l&amp;rsquo;exposition &amp;quot;Le paquebot France, un g&amp;eacute;ant n&amp;eacute; &amp;agrave; Saint-Nazaire&amp;quot;.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;Agrave; bord des paquebots transatlantiques, la travers&amp;eacute;e se fait souvent en musique. Dans les salons et bars de&amp;nbsp;France, la f&amp;ecirc;te est ininterrompue. Les passagers aux pas chaloup&amp;eacute;s, aid&amp;eacute;s par la houle peut-&amp;ecirc;tre, s&amp;rsquo;amusent et profitent de ce moment hors du temps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;En plein air, retrouvez cette ambiance de f&amp;ecirc;te dans un concert aux sonorit&amp;eacute;s des ann&amp;eacute;es 1960.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gratuit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Par le Racing Jazz Club&amp;thinsp;: Pierre-Yves M&amp;eacute;rel (saxophone), Olivier Rousseau (piano), David Sauvourel (guitare), &amp;Eacute;meric Chevalier (contrebasse) et Herv&amp;eacute; Batteux (batterie)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Le 28&amp;nbsp;ao&amp;ucirc;t, retrouvez&amp;nbsp;une soir&amp;eacute;e sp&amp;eacute;ciale autour de l&amp;rsquo;exposition&amp;nbsp;photographique &amp;agrave; retrouver le long du front de mer&amp;thinsp;!&lt;/p&gt; Horaires : de 16h &agrave; 17h Tarif : Gratuit Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, http://www.saint-nazaire-tourisme.com Organisateur : Saint-Nazaire Renversante ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/0/f/csm_infolocale_7517831_0_591dbefaf9.jpg</image>
+<ev:startdate>Sun, 28 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>Skate-park, Parc du 19-Mars-1962</ev:location>
+<geo:lat>47.26762</geo:lat>
+<geo:long>-2.220595</geo:long>
+</item>
+<item>
+<title>Concert « Comme un air de France », par le Racing jazz club</title>
+<link>https://www.saintnazaire.fr/agenda/concert-comme-un-air-de-france-par-le-racing-jazz-club-25617</link>
+<category>Concert</category>
+<content:encoded>
+<![CDATA[ &Agrave; bord des paquebots transatlantiques, la travers&eacute;e se fait souvent en musique. En plein air, retrouvez cette ambiance de f&ecirc;te dans un concert aux sonorit&eacute;s des ann&eacute;es 1960, men&eacute; par le Racing jazz club. Gratuit. &lt;p&gt;&lt;strong&gt;Concert de plein air inspir&amp;eacute; des ann&amp;eacute;es 1960 et de l&amp;rsquo;exposition &amp;quot;Le paquebot France, un g&amp;eacute;ant n&amp;eacute; &amp;agrave; Saint-Nazaire&amp;quot;.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;Agrave; bord des paquebots transatlantiques, la travers&amp;eacute;e se fait souvent en musique. Dans les salons et bars de&amp;nbsp;France, la f&amp;ecirc;te est ininterrompue. Les passagers aux pas chaloup&amp;eacute;s, aid&amp;eacute;s par la houle peut-&amp;ecirc;tre, s&amp;rsquo;amusent et profitent de ce moment hors du temps.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;En plein air, retrouvez cette ambiance de f&amp;ecirc;te dans un concert aux sonorit&amp;eacute;s des ann&amp;eacute;es 1960.&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Gratuit&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Par le Racing Jazz Club&amp;thinsp;: Pierre-Yves M&amp;eacute;rel (saxophone), Olivier Rousseau (piano), David Sauvourel (guitare), &amp;Eacute;meric Chevalier (contrebasse) et Herv&amp;eacute; Batteux (batterie)&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Le 28&amp;nbsp;ao&amp;ucirc;t, retrouvez&amp;nbsp;une soir&amp;eacute;e sp&amp;eacute;ciale autour de l&amp;rsquo;exposition&amp;nbsp;photographique &amp;agrave; retrouver le long du front de mer&amp;thinsp;!&lt;/p&gt; Horaires : de 18h &agrave; 19h Tarif : Gratuit Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, http://www.saint-nazaire-tourisme.com Organisateur : Saint-Nazaire Renversante ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/9/c/csm_infolocale_7517836_0_59989a5742.jpg</image>
+<ev:startdate>Sun, 28 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>Place du Commando</ev:location>
+<geo:lat>47.27194</geo:lat>
+<geo:long>-2.205227</geo:long>
+</item>
+<item>
+<title>Visite guidée : « France a épousé la mer », pour découvrir l’exposition photographique</title>
+<link>https://www.saintnazaire.fr/agenda/visite-guidee-france-a-epouse-la-mer-pour-decouvrir-l-exposition-photographique-25619</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Avec un m&eacute;diateur, d&eacute;couvrez le long du front de mer l&#039;exposition photographique &laquo; Le paquebot France, un g&eacute;ant n&eacute; &agrave; Saint-Nazaire &raquo; qui est d&eacute;di&eacute;e &agrave; ce dernier grand paquebot de la Compagnie g&eacute;n&eacute;rale transatlantique. Gratuit. R&eacute;servation conseill&eacute;e. &lt;p&gt;&lt;strong&gt;Visite guid&amp;eacute;e de l&amp;rsquo;exposition photographique de plein air &amp;quot;Le paquebot France, un g&amp;eacute;ant n&amp;eacute; &amp;agrave; Saint-Nazaire&lt;/strong&gt;&amp;quot;.&lt;/p&gt;&lt;p&gt;Avec un m&amp;eacute;diateur, profitez d&amp;rsquo;une visite guid&amp;eacute;e sur le front de mer et d&amp;eacute;couvrez l&amp;rsquo;exposition photographique &amp;laquo;&amp;thinsp;Le paquebot France, un g&amp;eacute;ant n&amp;eacute; &amp;agrave; Saint-Nazaire&amp;thinsp;&amp;raquo; qui est d&amp;eacute;di&amp;eacute;e &amp;agrave; ce dernier grand paquebot de la Compagnie G&amp;eacute;n&amp;eacute;rale Transatlantique.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Gratuit&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R&amp;eacute;servation conseill&amp;eacute;e&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;Le 28&amp;nbsp;ao&amp;ucirc;t, retrouvez une soir&amp;eacute;e sp&amp;eacute;ciale autour de l&amp;rsquo;exposition, avec des concerts en plein air&amp;thinsp;!&lt;/em&gt;&lt;/p&gt; Horaires : de 17h &agrave; 18h Tarif : Gratuit Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, http://www.saint-nazaire-tourisme.com Organisateur : Saint-Nazaire Renversante ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/b/f/csm_infolocale_7517854_0_3b05cd5d27.jpg</image>
+<ev:startdate>Sun, 28 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>Skate-park, Parc du 19-Mars-1962</ev:location>
+<geo:lat>47.26762</geo:lat>
+<geo:long>-2.220595</geo:long>
+</item>
+<item>
+<title>Trio de fête</title>
+<link>https://www.saintnazaire.fr/agenda/trio-de-fete-25972</link>
+<category>Spectacle</category>
+<content:encoded>
+<![CDATA[ Les maisons de quartier Kerl&eacute;d&eacute; / Bouletterie / Chesnaie se r&eacute;unissent sur le square Provence pour proposer des animations festives. Maquillage, animations, jeux et musique au rendez-vous ! Horaires : de 16h &agrave; 20h30 Tarif : Gratuit Renseignement : 0228559990, 0240703522, mqchesnaie@wanadoo.fr Organisateur : Maison de quartier Chesnaie ]]>
+</content:encoded>
+<ev:startdate>Sat, 27 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>square Provence, en face C.Commercial</ev:location>
+<geo:lat>47.27396</geo:lat>
+<geo:long>-2.232074</geo:long>
+</item>
+<item>
+<title>Les bains de mer, quelles histoires !</title>
+<link>https://www.saintnazaire.fr/agenda/les-bains-de-mer-quelles-histoires-26098</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Revivez l&#039;incroyable &eacute;pop&eacute;e des bains de mers &agrave; Pornichet et la Presqu&#039;&icirc;le avec ce plongeon dans le pass&eacute; m&ecirc;lant la d&eacute;couverte des &eacute;difices symboliques de cette &eacute;poque, des &eacute;crits souvent cocasses et des anecdotes croustillantes. Horaires : de 10h &agrave; 11h30 Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560854_0.jpg</image>
+<ev:startdate>Fri, 26 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.26723</geo:lat>
+<geo:long>-2.34145</geo:long>
+</item>
+<item>
+<title>Pêche à pied avec Maël guide de pêche</title>
+<link>https://www.saintnazaire.fr/agenda/peche-a-pied-avec-mael-guide-de-peche-26103</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Partez &agrave; la d&eacute;couverte de l&#039;estran pour une p&ecirc;che &agrave; pied responsable, propos&eacute;e par Ma&euml;l, guide de p&ecirc;che professionnel. Un bon bol d&#039;air iod&eacute; pour petits et grands &agrave; la d&eacute;couverte de ce milieu si fragile. Propos&eacute;e par &Ocirc; fil de l&#039;O. &Agrave; partir de 6 ans. Horaires : de 11h &agrave; 12h30 Tarif : Payant Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr Organisateur : office de tourisme ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7561130_0.jpg</image>
+<ev:startdate>Fri, 26 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location/>
+<geo:lat>47.26723</geo:lat>
+<geo:long>-2.34145</geo:long>
+</item>
+<item>
+<title>Jour de fête</title>
+<link>https://www.saintnazaire.fr/agenda/jour-de-fete-26110</link>
+<category>Spectacle</category>
+<content:encoded>
+<![CDATA[ Gina, chanteuse &agrave; la gouaille provocatrice et sensuelle nous entra&icirc;ne dans un cabaret insolite, accompagn&eacute;e de L&eacute;on, guitariste gavroche et Diego, dandy &agrave; la contrebasse. Un spectacle swing, festif, dr&ocirc;le et interactif, pour red&eacute;couvrir en famille la chanson et le cin&eacute;ma des ann&eacute;es 30 &agrave; 50. &lt;p&gt;Gina, chanteuse &amp;agrave; la gouaille provocatrice et sensuelle nous entra&amp;icirc;ne dans un cabaret insolite, accompagn&amp;eacute;e de L&amp;eacute;on, guitariste gavroche et Diego, dandy &amp;agrave; la contrebasse. Un spectacle swing, festif, dr&amp;ocirc;le et interactif, pour red&amp;eacute;couvrir en famille la chanson et le cin&amp;eacute;ma des ann&amp;eacute;es 30 &amp;agrave; 50.&lt;/p&gt; Horaires : de 20h30 &agrave; 22h Tarif : Payant Organisateur : Caf&eacute;-th&eacute;&acirc;tre La P&#039;tite sc&egrave;ne des halles ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7563323_0.png</image>
+<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7563323_1.jpg</image>
+<ev:startdate>Fri, 26 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>La P’tite scène des halles, 14, place du Commerce</ev:location>
+<geo:lat>47.27433</geo:lat>
+<geo:long>-2.21372</geo:long>
+</item>
+<item>
+<title>Randonnée urbaine commentée : « Saint-Marc-sur-Mer, l'esprit balnéaire »</title>
+<link>https://www.saintnazaire.fr/agenda/randonnee-urbaine-commentee-saint-marc-sur-mer-lesprit-balneaire-25612</link>
+<category>Visites, musées</category>
+<content:encoded>
+<![CDATA[ Situ&eacute; pr&egrave;s de la c&ocirc;te, le petit hameau rural de Saint-Marc devient &laquo; sur mer &raquo; &agrave; la fin du XIXe si&egrave;cle. Une bourgeoisie ais&eacute;e se fait alors construire des villas. Dans les ann&eacute;es 1950, le cin&eacute;aste Jacques Tati, en M. Hulot, immortalisera la cit&eacute; baln&eacute;aire dans un premier r&ocirc;le au charme familial. &lt;p&gt;&lt;strong&gt;Randonn&amp;eacute;e comment&amp;eacute;e &amp;agrave; Saint-Marc&amp;thinsp;!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Id&amp;eacute;alement situ&amp;eacute; en bordure c&amp;ocirc;ti&amp;egrave;re, le petit hameau rural de Saint-Marc devient &amp;laquo;&amp;thinsp;sur mer&amp;thinsp;&amp;raquo; &amp;agrave; la fin du XIXe&amp;nbsp;si&amp;egrave;cle. Doucement, de village, il se transforme en station baln&amp;eacute;aire. Une bourgeoisie ais&amp;eacute;e se fait alors construire de grandes villas.&lt;/p&gt;&lt;p&gt;Dans les ann&amp;eacute;es 1950, le cin&amp;eacute;aste Jacques Tati, en Monsieur Hulot, immortalisera la petite cit&amp;eacute; dans un premier r&amp;ocirc;le au charme familial.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Conseill&amp;eacute; &amp;agrave; un public adulte.&lt;/li&gt;&lt;li&gt;R&amp;eacute;servation obligatoire.&lt;/li&gt;&lt;/ul&gt; Horaires : de 14h30 &agrave; 16h45 Tarif : Payant Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, https://www.saint-nazaire-tourisme.com/ Organisateur : Saint-Nazaire Renversante ]]>
+</content:encoded>
+<image>https://www.agglo-carene.fr/fileadmin/_processed_/5/6/csm_infolocale_7517748_0_25f5d86ceb.jpg</image>
+<ev:startdate>Thu, 25 Aug 2022 00:00:00 +0200</ev:startdate>
+<ev:enddate/>
+<ev:location>Plage de M.-Hulot, rue du Commandant-Charcot</ev:location>
+<geo:lat>47.23783</geo:lat>
+<geo:long>-2.280826</geo:long>
+</item>
+</channel>
 </rss>

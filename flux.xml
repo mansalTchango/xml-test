@@ -692,7 +692,7 @@ This XML file does not appear to have any style information associated with it. 
 <content:encoded>
 <![CDATA[ Un médiateur vous propose, en 10 minutes, un éclairage particulier sur les épisodes marquants de l’évolution de Saint-Nazaire en abordant l’histoire de la ville à travers des objets de collections de l’Écomusée. Inclus dans le billet d’entrée. <p>&nbsp;</p><p>&nbsp;</p><p><strong>Un m&eacute;diateur vous propose, en 10 minutes, un &eacute;clairage particulier sur les &eacute;pisodes marquants de l&rsquo;&eacute;volution de Saint-Nazaire en abordant l&rsquo;histoire de la ville &agrave; travers des objets de collections de l&rsquo;&Eacute;comus&eacute;e.</strong></p><p>Trois dessins&nbsp;montrent le paysage nazairien en compl&egrave;te mutation entre 1840 et&nbsp;1933, une&nbsp;maquette du&nbsp;paquebot l&rsquo;<em>Imp&eacute;ratrice Eug&eacute;nie</em>&nbsp;t&eacute;moigne du d&eacute;but des chantiers navals&hellip;</p><ul><li>Inclus dans le billet d&rsquo;entr&eacute;e.</li><li>Plusieurs sessions par jour.</li></ul><p>&nbsp;</p> <p></p> Horaires : de 14h à 18h <p></p> Tarif : Payant <p></p> Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, http://www.saint-nazaire-tourisme.com <p></p> Organisateur : Saint-Nazaire Renversante ]]>
 </content:encoded>
-<enclosure url="https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560806_0.jpg" length="0" type="image/jpeg"/>
+<enclosure url="https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560806_0.jpg" length="0" type="image/jpge"/>
 <ev:startdate>Mon, 15 Aug 2022 00:00:00 +0200</ev:startdate>
 <ev:enddate>Sun, 21 Aug 2022 00:00:00 +0200</ev:enddate>
 <ev:location>Écomusée, 15, avenue de Saint-Hubert</ev:location>
@@ -706,9 +706,7 @@ This XML file does not appear to have any style information associated with it. 
 <content:encoded>
 <![CDATA[ Trois heures au large de Saint-Nazaire pour se rendre sur la zone d'installation du parc éolien. Une croisière décoiffante au plus près des éoliennes. Réservation obligatoire. <p>&nbsp;</p><p>&nbsp;</p><p>Le premier parc &eacute;olien en mer en France est en cours d&rsquo;assemblage au large de Saint-Nazaire. Cette croisi&egrave;re d&eacute;couverte donne l&rsquo;occasion exceptionnelle de se rendre sur la zone d&rsquo;installation des &eacute;oliennes. Une croisi&egrave;re d&eacute;coiffante pour tout comprendre sur ce projet spectaculaire et novateur&thinsp;!</p><p><strong>Partez pour trois heures au large de Saint-Nazaire&thinsp;!</strong></p><ul><li>R&eacute;servation obligatoire</li></ul><p>&nbsp;</p><p>&nbsp;</p> <p></p> Horaires : de 14h à 17h <p></p> Tarif : Payant <p></p> Renseignement : 0228540640, visite@saint-nazaire-tourisme.com, http://www.saint-nazaire-tourisme.com <p></p> Organisateur : Saint-Nazaire Renversante ]]>
 </content:encoded>
-<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7565467_0.png</image>
-<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7565467_1.png</image>
-<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7565467_2.png</image>
+<enclosure url="https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560806_0.jpg" length="0" type="image/jpg"/>
 <ev:startdate>Sun, 14 Aug 2022 00:00:00 +0200</ev:startdate>
 <ev:enddate/>
 <ev:location>Quai de Kribi</ev:location>

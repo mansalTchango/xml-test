@@ -82,12 +82,12 @@ This XML file does not appear to have any style information associated with it. 
   <item>
 <title>Test</title>
 <link>https://www.saintnazaire.fr/agenda/visite-famille-les-mysteres-de-l-ouest-26052</link>
-<category>Visites, musées</category>
+<category>test</category>
 <content:encoded>
-<![CDATA[ Perdu depuis plus de 170 ans, le trésor des contrebandiers n’attend plus qu’une chose : être enfin retrouvé ! Pour y parvenir, sois bien attentif aux indices fournis. Une chasse au trésor grandeur nature ludique et interactive à vivre en famille. À partir de 7 ans. <p></p> Horaires : de 10h à 11h15 <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+<![CDATA[  test ]]>
 </content:encoded>
 <image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560924_0.jpg</image>
-<ev:startdate>Tue, 26 Jul 2022 00:00:00 +0200</ev:startdate>
+<ev:startdate>Tue, 27 Jul 2022 00:00:00 +0200</ev:startdate>
 <ev:enddate/>
 <ev:location/>
 <geo:lat>47.26723</geo:lat>

@@ -80,18 +80,52 @@ This XML file does not appear to have any style information associated with it. 
 <geo:long>-2.34145</geo:long>
 </item>
   <item>
-<title>Test</title>
-<link>https://www.saintnazaire.fr/agenda/visite-famille-les-mysteres-de-l-ouest-26052</link>
-<category>test</category>
-<content:encoded>
-<![CDATA[  test ]]>
-</content:encoded>
-<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560924_0.jpg</image>
-<ev:startdate>Tue, 27 Jul 2022 00:00:00 +0200</ev:startdate>
-<ev:enddate/>
-<ev:location/>
-<geo:lat>47.26723</geo:lat>
-<geo:long>-2.34145</geo:long>
-</item>
+  <title>Réouverture de l'autoroute A20</title>
+  <link>https://www.limoges.fr/actualites/reouverture-de-lautoroute-a20</link>
+  <description>&lt;span&gt;Réouverture de l'autoroute A20&lt;/span&gt;
+&lt;span&gt;&lt;span lang="" about="https://www.limoges.fr/user/679" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;clachaud&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;mar 05/07/2022 - 18:36&lt;/span&gt;
+    Annonce par la Préfecture de la Haute-Vienne de la réouverture de l'autoroute A20.
+    Travaux
+    
+            
+  
+                  
+   
+                                        
+      
+&lt;a data-fancybox="gallery-image" href="https://www.limoges.fr/sites/default/files/styles/1280x768/public/media/images/A20%2020111005.JPG?itok=tOK1J6nb" target="_blank" data-caption="" rel="noopener" data-alt="" data-srcset="https://www.limoges.fr/sites/default/files/styles/img__1620x1080/public/media/images/A20%2020111005.JPG?itok=85-2Jbua 2000w,https://www.limoges.fr/sites/default/files/styles/img__1280x768/public/media/images/A20%2020111005.JPG?itok=UAKLfvdP 1280w,https://www.limoges.fr/sites/default/files/styles/img__768x476/public/media/images/A20%2020111005.JPG?itok=F048dhyG 768w"&gt;
+
+  &lt;picture&gt;
+    
+                
+                
+    
+    &lt;img class="lazyload" data-src="https://www.limoges.fr/sites/default/files/styles/290x194/public/media/images/A20%2020111005.JPG?itok=CMMDWTIi" src="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%225616%22%20height=%223744%22%20viewBox=%220%200%205616%203744%22%20/%3E" alt="Agrandir l'image" /&gt;
+  &lt;/picture&gt;
+
+  &lt;/a&gt;
+
+    &lt;p&gt;&lt;strong&gt;Les dispositions&lt;/strong&gt; de l'arrêté préfectoral du 22 juin 2022 portant activation du plan de gestion du trafic de l'A20 &lt;strong&gt;sont levées ce jour, mardi 5 juillet à partir 18h et l’ouverture totale sera effective à compter de 21h00.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La passerelle demeure sous surveillance automatique avec un contrôle visuel périodique tous les 15 jours, les résultats de ces contrôles sont communiqués à la DIRCO qui en assure le suivi.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.limoges.fr/sites/default/files/pdf_preview/Arrete%20du%205%20juillet%20fin%20activation%20PGT%20A20.pdf" rel=" noopener" target="_blank"&gt;Télécharger l'arrêté préfectoral de réouverture&lt;/a&gt;&lt;/p&gt;
+&lt;!-- NOINDEX --&gt;
+      &lt;section id="node-news-field-comments--7" class="comments"&gt;
+          &lt;ul class="comments__listitems"&gt;
+                
+      &lt;/ul&gt;
+
+        &lt;/section&gt;
+
+  
+
+&lt;!-- /NOINDEX --&gt;
+</description>
+  <pubDate>Tue, 05 Jul 2022 16:36:36 +0000</pubDate>
+    <dc:creator>clachaud</dc:creator>
+    <guid isPermaLink="false">22976 at https://www.limoges.fr</guid>
+    </item>
 </channel>
 </rss>

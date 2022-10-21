@@ -23,6 +23,7 @@ This XML file does not appear to have any style information associated with it. 
 <ev:location/>
 <geo:lat>47.25963</geo:lat>
 <geo:long>-2.339715</geo:long>
+<isPinned>True</isPinned>
 </item>
 <item>
 <title>Villas Belle Époque</title>
@@ -37,6 +38,7 @@ This XML file does not appear to have any style information associated with it. 
 <ev:location/>
 <geo:lat>47.25963</geo:lat>
 <geo:long>-2.339715</geo:long>
+<isPinned>True</isPinned>
 </item>
 <item>
 <title>Deuil allemand Commémoration des Victimes des Guerres</title>

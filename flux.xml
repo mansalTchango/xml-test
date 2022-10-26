@@ -1,85 +1,53 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:ev="https://web.resource.org/rss/1.0/modules/event" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 <channel>
-<title>CARENE Saint-Nazaire agglomération</title>
-<link>http://example.com</link>
-<description/>
+<title>Noisy-le-Grand : Toutes les actualités</title>
+<link>https://www.noisylegrand.fr/information-transversale/actualites/rss</link>
+<description>Toutes les actualités dès leur publication sur le site www.noisylegrand.fr</description>
 <language>fr</language>
-<copyright>CARENE Saint-Nazaire agglomération</copyright>
-<pubDate>Wed, 01 Jun 2022 14:36:28 +0200</pubDate>
-<lastBuildDate>Wed, 01 Jun 2022 14:36:28 +0200</lastBuildDate>
-<atom:link href="https://www.agglo-carene.fr/liens-utiles/flux-rss/rss-agenda/flux.rss" rel="self" type="application/rss+xml"/>
+<copyright>Noisy-le-Grand</copyright>
+<lastBuildDate>Mon, 24 Oct 2022 17:03:08 +0200</lastBuildDate>
 <generator>TYPO3 EXT:news</generator>
 <item>
-<title>Villas Belle Époque</title>
-<link>https://www.saintnazaire.fr/agenda/villas-belle-epoque-24269</link>
-<category>Visites, musées</category>
+<guid isPermaLink="false">news-8428</guid>
+<pubDate>Wed, 26 Oct 2022 00:00:00 +0200</pubDate>
+<title>Que faire à Noisy-le-Grand ce week-end ?</title>
+<link>https://www.noisylegrand.fr/information-transversale/actualites/que-faire-a-noisy-le-grand-ce-week-end-28-8428</link>
+<category>Pratique</category>
+<description>
+<![CDATA[ <p>Un week-end chargé en événements et activités culturelles attend les Noiséens du 28 au 30 octobre. Petit récapitulatif.</p><p>Vous cherchez une sortie à effectuer sur Noisy-le-Grand ce week-end ? On vous récapitule toutes les possibilités dans notre article.</p><h2>A ne pas manquer :</h2><ul><li><strong><a href="https://www.noisylegrand.fr/information-transversale/actualites/direction-le-mexique-pour-la-fete-du-fantastique-2022-8394">La Fête du Fantastique</a>, samedi 29 octobre à partir de 14h aux Espaces d'Abraxas.</strong></li><li><strong>Exposition "<em>Un nouveau départ pour le SK</em>", jusqu'au 26 novembre à l'Espace Michel-Simon.&nbsp;<a href="https://www.noisylegrand.fr/information-transversale/actualites/visitez-la-station-k-tous-les-samedis-jusquau-26-novembre-8405">Visite du site métro SK tous les samedis pendant la durée de l'expo</a>.</strong></li></ul><h2>Vendredi 28 octobre :</h2><ul><li>Permanence Info-Energie, de 14h à 17h.</li><li>Atelier création de sac&nbsp;à bonbons <a href="https://www.noisylegrand.fr/information-transversale/actualites/venez-feter-la-periode-dhalloween-a-noisy-le-grand-8393">dans le cadre des festivités d'Halloween</a>, de 14h30 à 16h30 à la maison pour tous du Champy.</li><li>Ateliers maquillage de 15h30 à 17h30 puis spectacle "<em>Même pas peur</em>" de Gilles Bizouerne (à 18h) à La Varenne <a href="https://www.noisylegrand.fr/information-transversale/actualites/venez-feter-la-periode-dhalloween-a-noisy-le-grand-8393">dans le cadre des festivités d'Halloween</a>.</li><li>Dîner dans le noir "<em>Halloween à l'aveugle</em>" <a href="https://www.noisylegrand.fr/information-transversale/actualites/venez-feter-la-periode-dhalloween-a-noisy-le-grand-8393">dans le cadre des festivités d'Halloween</a>, 19h à la maison pour tous des Coteaux.</li><li>Retrouvez le <a href="https://www.noisylegrand.fr/information-transversale/actualites/le-programme-des-activites-des-vacances-scolaires-dans-les-maisons-pour-tous-8407">programme des activités au sein des maisons pour tous.</a></li></ul><h2>Samedi 29 octobre :</h2><ul><li>Bain de livres, 10h30 à la médiathèque Georges-Wolinski.</li><li>Concert "<em>Voyage sonore</em>", de 11h à 12h30 à la maison pour tous de La Varenne.</li><li><strong><a href="https://www.noisylegrand.fr/information-transversale/actualites/direction-le-mexique-pour-la-fete-du-fantastique-2022-8394">La Fête du Fantastique</a>, à partir de 14h aux Espaces d'Abraxas.</strong></li><li>Parcours Halloween par l'association&nbsp;<em>EAR</em>&nbsp;(<em>Ensemble Aux Richardets</em>) <a href="https://www.noisylegrand.fr/information-transversale/actualites/venez-feter-la-periode-dhalloween-a-noisy-le-grand-8393">dans le cadre des festivités d'Halloween</a>, de 14h à 18h.</li></ul><h2>Tout le week-end :</h2><ul><li>Exposition "<em>Les couleurs de ma vie</em>" de LM Abstrait, jusqu'au 4 novembre à la maison pour tous des Richardets.</li><li>Exposition "<em>Festival de couleurs</em>", jusqu'au 4 novembre à la maison pour tous Marcel-Bou.</li><li>Exposition "<em>Sur le chemin du dessin réaliste</em>" de Patrick Gbwel, jusqu'au 4 novembre à la maison pour tous des Coteaux.</li><li><strong>Exposition "<em>Un nouveau départ pour le SK</em>", jusqu'au 26 novembre à l'Espace Michel-Simon.&nbsp;<a href="https://www.noisylegrand.fr/information-transversale/actualites/visitez-la-station-k-tous-les-samedis-jusquau-26-novembre-8405">Visite du site métro SK tous les samedis pendant la durée de l'expo.</a></strong></li><li>Retrouvez le <a href="https://www.noisylegrand.fr/information-transversale/actualites/la-programmation-du-week-end-au-cinema-le-bijou-18-8431" title="La programmation du week-end au cinéma Le Bijou">programme des projections&nbsp;au cinéma Le Bijou</a>.</li></ul><p>&nbsp;</p><p><strong><em>Pour plus d’informations sur les modalités de participation (tarifs, réservations…), consultez l’agenda du site web ou du supplément au magazine mensuel ou contactez les équipements concernés.</em></strong></p> ]]>
+</description>
 <content:encoded>
-<![CDATA[ Parcourez les avenues de Pornichet à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+<![CDATA[ <p>Un week-end chargé en événements et activités culturelles attend les Noiséens du 28 au 30 octobre. Petit récapitulatif.</p><p>Vous cherchez une sortie à effectuer sur Noisy-le-Grand ce week-end ? On vous récapitule toutes les possibilités dans notre article.</p><h2>A ne pas manquer :</h2><ul><li><strong><a href="https://www.noisylegrand.fr/information-transversale/actualites/direction-le-mexique-pour-la-fete-du-fantastique-2022-8394">La Fête du Fantastique</a>, samedi 29 octobre à partir de 14h aux Espaces d'Abraxas.</strong></li><li><strong>Exposition "<em>Un nouveau départ pour le SK</em>", jusqu'au 26 novembre à l'Espace Michel-Simon.&nbsp;<a href="https://www.noisylegrand.fr/information-transversale/actualites/visitez-la-station-k-tous-les-samedis-jusquau-26-novembre-8405">Visite du site métro SK tous les samedis pendant la durée de l'expo</a>.</strong></li></ul><h2>Vendredi 28 octobre :</h2><ul><li>Permanence Info-Energie, de 14h à 17h.</li><li>Atelier création de sac&nbsp;à bonbons <a href="https://www.noisylegrand.fr/information-transversale/actualites/venez-feter-la-periode-dhalloween-a-noisy-le-grand-8393">dans le cadre des festivités d'Halloween</a>, de 14h30 à 16h30 à la maison pour tous du Champy.</li><li>Ateliers maquillage de 15h30 à 17h30 puis spectacle "<em>Même pas peur</em>" de Gilles Bizouerne (à 18h) à La Varenne <a href="https://www.noisylegrand.fr/information-transversale/actualites/venez-feter-la-periode-dhalloween-a-noisy-le-grand-8393">dans le cadre des festivités d'Halloween</a>.</li><li>Dîner dans le noir "<em>Halloween à l'aveugle</em>" <a href="https://www.noisylegrand.fr/information-transversale/actualites/venez-feter-la-periode-dhalloween-a-noisy-le-grand-8393">dans le cadre des festivités d'Halloween</a>, 19h à la maison pour tous des Coteaux.</li><li>Retrouvez le <a href="https://www.noisylegrand.fr/information-transversale/actualites/le-programme-des-activites-des-vacances-scolaires-dans-les-maisons-pour-tous-8407">programme des activités au sein des maisons pour tous.</a></li></ul><h2>Samedi 29 octobre :</h2><ul><li>Bain de livres, 10h30 à la médiathèque Georges-Wolinski.</li><li>Concert "<em>Voyage sonore</em>", de 11h à 12h30 à la maison pour tous de La Varenne.</li><li><strong><a href="https://www.noisylegrand.fr/information-transversale/actualites/direction-le-mexique-pour-la-fete-du-fantastique-2022-8394">La Fête du Fantastique</a>, à partir de 14h aux Espaces d'Abraxas.</strong></li><li>Parcours Halloween par l'association&nbsp;<em>EAR</em>&nbsp;(<em>Ensemble Aux Richardets</em>) <a href="https://www.noisylegrand.fr/information-transversale/actualites/venez-feter-la-periode-dhalloween-a-noisy-le-grand-8393">dans le cadre des festivités d'Halloween</a>, de 14h à 18h.</li></ul><h2>Tout le week-end :</h2><ul><li>Exposition "<em>Les couleurs de ma vie</em>" de LM Abstrait, jusqu'au 4 novembre à la maison pour tous des Richardets.</li><li>Exposition "<em>Festival de couleurs</em>", jusqu'au 4 novembre à la maison pour tous Marcel-Bou.</li><li>Exposition "<em>Sur le chemin du dessin réaliste</em>" de Patrick Gbwel, jusqu'au 4 novembre à la maison pour tous des Coteaux.</li><li><strong>Exposition "<em>Un nouveau départ pour le SK</em>", jusqu'au 26 novembre à l'Espace Michel-Simon.&nbsp;<a href="https://www.noisylegrand.fr/information-transversale/actualites/visitez-la-station-k-tous-les-samedis-jusquau-26-novembre-8405">Visite du site métro SK tous les samedis pendant la durée de l'expo.</a></strong></li><li>Retrouvez le <a href="https://www.noisylegrand.fr/information-transversale/actualites/la-programmation-du-week-end-au-cinema-le-bijou-18-8431" title="La programmation du week-end au cinéma Le Bijou">programme des projections&nbsp;au cinéma Le Bijou</a>.</li></ul><p>&nbsp;</p><p><strong><em>Pour plus d’informations sur les modalités de participation (tarifs, réservations…), consultez l’agenda du site web ou du supplément au magazine mensuel ou contactez les équipements concernés.</em></strong></p> ]]>
 </content:encoded>
-<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7425226_0.jpg</image>
-<ev:startdate>Sat, 17 Dec 2022 00:00:00 +0100</ev:startdate>
-<ev:enddate/>
-<ev:location/>
-<geo:lat>47.25963</geo:lat>
-<geo:long>-2.339715</geo:long>
+<enclosure url="https://www.noisylegrand.fr/fileadmin/img/ACTUALITES/2022/NOISY_0084286_ORI.jpg" length="462210" type="image/jpeg"/>
 <ev:isPinned>True</ev:isPinned>
 </item>
 <item>
-<title>Villas Belle Époque</title>
-<link>https://www.saintnazaire.fr/agenda/villas-belle-epoque-24268</link>
-<category>Visites, musées</category>
+<guid isPermaLink="false">news-1228</guid>
+<pubDate>Wed, 13 Mar 2019 11:48:06 +0100</pubDate>
+<title>Réunion publique sur les Espaces d'Abraxas</title>
+<link>https://www.noisylegrand.fr/information-transversale/actualites/reunion-publique-sur-les-espaces-dabraxas-1228</link>
+<category>Aménagement, Concertation, Grands projets, Espaces d'Abraxas</category>
+<description>
+<![CDATA[ <p>Une réunion publique de concertation sur le réaménagement des Espaces d'Abraxas et la requalification de l'Esplanade de la commune de Paris s'est tenue le 11 mars dernier. Les documents de présentation des projets sont disponibles en téléchargement.</p> ]]>
+</description>
 <content:encoded>
-<![CDATA[ Parcourez les avenues de Pornichet à la découverte de ses villas nichées dans leur écrin de verdure. Une visite incontournable pour admirer le patrimoine architectural de la ville et contempler ses belles villas qui ont fait de Pornichet une station renommée à la Belle Époque. <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
+<![CDATA[ <p>Une réunion publique de concertation sur le réaménagement des Espaces d'Abraxas et la requalification de l'Esplanade de la commune de Paris s'est tenue le 11 mars dernier. Les documents de présentation des projets sont disponibles en téléchargement.</p> ]]>
 </content:encoded>
-<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7425222_0.jpg</image>
-<ev:startdate>Sat, 19 Nov 2022 00:00:00 +0100</ev:startdate>
-<ev:enddate/>
-<ev:location/>
-<geo:lat>47.25963</geo:lat>
-<geo:long>-2.339715</geo:long>
+<enclosure url="https://www.noisylegrand.fr/fileadmin/img/ACTUALITES/2019/Reunion-publique_Abraxas_IMG_3091_1800x1200.jpg" length="263202" type="image/jpeg"/>
+<contentElements>
+<download>
+<document>
+<title>Document de présentation du projet de réaménagement des Espaces d'Abraxas</title>
+<link>https://www.noisylegrand.fr/fileadmin/medias/PROJETS/Abraxas/Presentation_-_Reunion_publique_-_Abraxas_-_20190311.pdf</link>
+</document>
+<document>
+<title>Document de présentation du projet de requalification de l'Esplanade de la commune de Paris</title>
+<link>https://www.noisylegrand.fr/fileadmin/medias/PROJETS/Esplanade_Commune_de_Paris/Presentation_-_Reunion_publique_-_Esplanade_Commune_de_Paris_-_20190311.pdf</link>
+</document>
+</download>
+</contentElements>
 <ev:isPinned>True</ev:isPinned>
-</item>
-<item>
-<title>Deuil allemand Commémoration des Victimes des Guerres</title>
-<link>https://www.saintnazaire.fr/agenda/deuil-allemand-commemoration-des-victimes-des-guerres-26005</link>
-<content:encoded>
-<![CDATA[ 10h45, cérémonie au Carré Militaire français; 11h, cérémonie au Cimetière allemand. <p></p> Horaires : à 11h <p></p> Organisateur : Ville de Pornichet ]]>
-</content:encoded>
-<image>https://www.agglo-carene.fr/fileadmin/_processed_/6/2/csm_infolocale_7556551_0_2f235738d3.jpg</image>
-<ev:startdate>Sun, 13 Nov 2022 00:00:00 +0100</ev:startdate>
-<ev:enddate/>
-<ev:location>Cimetière, route de villès Mahaud</ev:location>
-<geo:lat>47.25721</geo:lat>
-<geo:long>-2.319317</geo:long>
-</item>
-<item>
-<title>Futurs septuagénaires trignacais</title>
-<link>https://www.saintnazaire.fr/agenda/futurs-septuagenaires-trignacais-24162</link>
-<category>Fête, repas, soirée</category>
-<content:encoded>
-<![CDATA[ Vous avez été élève aux écoles Jean-Jaurès et Marie-Curie de Trignac dans les années 1950-1960. Vous êtes né en 1952. Vous souhaitez fêter vos 70 ans entre amis « de la classe ». Inscrivez-vous pour une rencontre fin 2022. <p></p> Tarif : Payant <p></p> Renseignement : 0687783093, chrisrea56@gmail.com <p></p> Organisateur : Trignac 1952 ]]>
-</content:encoded>
-<image>https://www.agglo-carene.fr/fileadmin/_processed_/a/6/csm_infolocale_7415018_0_cfd2b292cb.jpg</image>
-<ev:startdate>Mon, 31 Oct 2022 00:00:00 +0100</ev:startdate>
-<ev:enddate/>
-<ev:location/>
-<geo:lat>47.31752</geo:lat>
-<geo:long>-2.18823</geo:long>
-</item>
-<item>
-<title>Visite famille : les mystères de l’Ouest</title>
-<link>https://www.saintnazaire.fr/agenda/visite-famille-les-mysteres-de-l-ouest-26052</link>
-<category>Visites, musées</category>
-<content:encoded>
-<![CDATA[ Perdu depuis plus de 170 ans, le trésor des contrebandiers n’attend plus qu’une chose : être enfin retrouvé ! Pour y parvenir, sois bien attentif aux indices fournis. Une chasse au trésor grandeur nature ludique et interactive à vivre en famille. À partir de 7 ans. <p></p> Horaires : de 10h à 11h15 <p></p> Tarif : Payant <p></p> Renseignement : 0240613333, info@pornichet.fr, http://www.pornichet.fr <p></p> Organisateur : office de tourisme ]]>
-</content:encoded>
-<image>https://www.agglo-carene.fr/fileadmin/images/InfoLocale/infolocale_7560924_0.jpg</image>
-<ev:startdate>Tue, 26 Jul 2022 00:00:00 +0200</ev:startdate>
-<ev:enddate/>
-<ev:location/>
-<geo:lat>47.26723</geo:lat>
-<geo:long>-2.34145</geo:long>
 </item>
 </channel>
 </rss>
